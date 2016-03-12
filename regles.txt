@@ -1,0 +1,39 @@
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*                                                           *
+*   REGLES DU JEU                                           *
+*                                                           *
+*   // Commandes //                                         *
+*                                                           *
+*       Z : Se déplacer d'une case vers le haut             *
+*       D : Se déplacer d'une case vers la droite           *
+*       S : Se déplacer d'une case vers le bas              *
+*       Q : Se déplacer d'une case vers la gauche           *
+*                                                           *
+*   // Items //                                             *
+*                                                           *
+*       [X] : joueur rouge                                  *
+*       [O] : joueur bleu                                   *
+*       [ ] : case vide                                     *
+*       [f] : food, alias "petits pains"                    *
+*       [#] : murs                                          *
+*                                                           *
+*   // Que doit faire le joueur rouge pour gagner ?  //     *
+*                                                           *
+*       Pour gagner la partie, le joueur rouge doit         *
+*       manger tous les petits pains.                       *
+*                                                           *
+*   // Que doit faire le joueur bleu pour gagner ? //       *
+*                                                           *
+*       Pour gagner la partie, le joueur bleu doit          *
+*       attraper le joueur rouge avant qu'il ait            *
+*       mangé tous les petits pains, pour cela,             *
+*       il doit se placer sur la même case que le           *
+*       joueur rouge.                                       *
+*                                                           *
+*       Remarque : Le joueur bleu peut manger les           *
+*       petits pains mais cela rapprochera le joueur        *
+*       rouge de la victoire.                               *
+*                                                           *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Tapez M pour revenir en arrière.
