@@ -1,0 +1,5 @@
+TailleMatrice: 15
+XPosRed: 15
+YPosRed: 15
+XPosBlue: 0
+YPosBlue: 0
